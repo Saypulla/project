@@ -1,0 +1,5 @@
+print("tom work table")
+print("tom work table")
+print("tom work teriiable")
+print("tom work teriiable")
+print("tom work table")
